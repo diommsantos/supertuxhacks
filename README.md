@@ -2,11 +2,11 @@ Hi everybody this was a project of mine to learn game hacking! Feel free to use 
 
 The hacks I developed include:
 
-Teleport hack
+#Teleport hack
 ![](https://github.com/diommsantos/supertuxhacks/blob/main/teleport.gif)
 
-Fly hack
+#Fly hack
 ![](https://github.com/diommsantos/supertuxhacks/blob/main/fly.gif)
 
-Bomber
+#Bomber
 ![](https://github.com/diommsantos/supertuxhacks/blob/main/freedom.gif)
